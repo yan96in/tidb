@@ -22,8 +22,8 @@
 ignored = ["github.com/coreos/etcd/etcdserver", "github.com/golang/protobuf/ptypes", "github.com/coreos/etcd/mvcc", "github.com/coreos/etcd/auth"]
 
 [[constraint]]
-  branch = "master"
   name = "github.com/BurntSushi/toml"
+  version = "0.3.0"
 
 [[constraint]]
   branch = "master"

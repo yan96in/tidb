@@ -2,10 +2,10 @@
 
 
 [[projects]]
-  branch = "master"
   name = "github.com/BurntSushi/toml"
   packages = ["."]
-  revision = "a368813c5e648fee92e5f6c30e3944ff9d5e8895"
+  revision = "b26d9c308763d68093482582cea63d69be07a0f0"
+  version = "v0.3.0"
 
 [[projects]]
   name = "github.com/apache/thrift"
@@ -378,6 +378,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "d45e94de953ee3c1934bc4d883423b8875ae59aa44ddbfc5f764e844f2ec7334"
+  inputs-digest = "ee7dbdf6e48a50a8bd68e7c27f46d264025a8100205efcbc8238a7977d0432a4"
   solver-name = "gps-cdcl"
   solver-version = 1
